@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://config-diff-web.vercel.app/sitemap.xml
