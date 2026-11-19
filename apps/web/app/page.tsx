@@ -5,6 +5,7 @@ export const metadata: Metadata = {
   title: "Config Diff",
   description:
     "Compare JSON, YAML and .env configs side by side: semantic diff with loose matching, array strategies, ignore rules and secret masking. Runs entirely in your browser.",
+  alternates: { canonical: "https://config-diff-web.vercel.app/" },
 };
 
 export default function Page() {
